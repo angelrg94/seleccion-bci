@@ -1,6 +1,5 @@
 # Registro de usuarios
 Este proyecto crea un API para realizar el Registro de un Usuario
-## Getting Started
 
 
 # Ejecución del Servicio
